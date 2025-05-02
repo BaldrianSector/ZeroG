@@ -18,6 +18,5 @@ This project is not a full game (yet), but a playground for learning and prototy
 
 ## 📚 School Info
 
-This project was created during the **Spring of 2025** as part of the course **Game Design and Virtual Worlds**, taught at **DMJX – Danish School of Media and Journalism**.  
-The course is part of the **Coded Design** and **Interactive Design** programs.  
+This project was created during the **Spring of 2025** as part of the course **Game Design and Virtual Worlds**, taught at **DMJX – Danish School of Media and Journalism**. The course is part of the **Coded Design** and **Interactive Design** programs.  
 It was led by [**Max Wrighton**](https://x.com/MaxWrighton) and [**Henning Boat**](https://x.com/HenningBoat).
